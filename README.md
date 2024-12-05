@@ -16,11 +16,21 @@ Egy felkiáltójel beírásával a Visual Studio Code ki fogja listázni az öss
 
 ### Fejlécek
 **!fejlec-1** - Fejléc 1  
-**!fejlec-2** - Fejléc 2
+**!fejlec-2** - Fejléc 2  
 
 ### Galériák
-**!galeria-1** - Galéria 1
-**!galeria-2** - Galéria 2
+**!galeria-1** - Galéria 1  
+**!galeria-2** - Galéria 2  
+
+### Kártyák
+**!kartya-1** - Kártya 1  
+**!kartya-2** - Kártya 2  
+**!kartya-3** - Kártya 3  
+
+### Láblécek
+**!lablec-1** - Lábléc 1  
+**!lablec-2** - Lábléc 2  
+**!lablec-3** - Lábléc 3  
 
 ## Példa
 
@@ -63,13 +73,30 @@ Az enter lenyomásával pedig a következőképpen töltődik ki a fájlod:
 </nav>
 ```
 
+**VAGY**
+
+```html
+!lablec-1
+```
+
+Példa a Lábléc 1 elhelyezése:  
+
+```html
+<footer class="lablec belso-kitoltes-10px hatter-paradicsom">
+			
+	<!-- ITT ÁLLÍTHATOD ÁT A SZÖVEGET -->
+	<p class="szoveg-kozepre betutipus-sans-serif szoveg-feher felkover">Szerkesztő neve © 2023</p>
+			
+</footer>
+```
+
 Minden behívható sablon reszponzív.
 
 ## Új verzió
 
-### 0.0.7
+### 0.0.10
 
-Galériák
+Láblécek
 
 ## HTML kitöltő
 
