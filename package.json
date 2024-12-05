@@ -3,7 +3,7 @@
   "displayName": "HunCoder Sablonok",
   "publisher": "HunCoder",
   "description": "HunCoder keretrendszer előre elkészített sablonjai",
-  "version": "0.0.3",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.95.0"
   },
@@ -11,6 +11,7 @@
     "type": "git",
     "url": "https://github.com/Humbi28/huncoder-sablonok.git"
   },
+  "icon": "icon.png",
   "categories": [
     "Snippets"
   ],

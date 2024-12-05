@@ -1,4 +1,4 @@
-# HunCoder WebDev HTML
+# HunCoder Sablonok
 
 A HunCoder Sablonok egy Visual Studio Code-ba telepíthető automatikus kitöltő  HTML fájlokhoz. Kezdő webfejleszők munkáját szeretnénk meggyorsítani, behívható magyar parancsokkal, amik automatikusan kitöltik a HunCoder keretrendszerrel készített alap sablonokat. 
 
@@ -8,8 +8,19 @@ Egy felkiáltójel beírásával a Visual Studio Code ki fogja listázni az öss
 
 ## Sablonok listája
 
-**!elvalaszto-1** - Elválasztó 1  
+### Üres sablon
 **!ures-sablon** - Üres sablon  
+
+### Elválasztó
+**!elvalaszto-1** - Elválasztó 1  
+
+### Fejlécek
+**!fejlec-1** - Fejléc 1  
+**!fejlec-2** - Fejléc 2
+
+### Galériák
+**!galeria-1** - Galéria 1
+**!galeria-2** - Galéria 2
 
 ## Példa
 
@@ -56,9 +67,9 @@ Minden behívható sablon reszponzív.
 
 ## Új verzió
 
-### 0.0.3
+### 0.0.7
 
-Üres sablon
+Galériák
 
 ## HTML kitöltő
 

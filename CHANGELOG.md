@@ -1,3 +1,19 @@
+# 0.0.7
+
+Galériák
+
+# 0.0.6
+
+Readme
+
+# 0.0.5
+
+Icon
+
+# 0.0.4
+
+Fejlécek, icon
+
 # 0.0.3
 
 Üres sablon
