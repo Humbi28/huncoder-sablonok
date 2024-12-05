@@ -1,0 +1,25 @@
+{
+  "name": "huncoder-sablonok",
+  "displayName": "HunCoder Sablonok",
+  "publisher": "HunCoder",
+  "description": "HunCoder keretrendszer előre elkészített sablonjai",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Humbi28/huncoder-sablonok.git"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}

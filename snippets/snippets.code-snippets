@@ -1,0 +1,13 @@
+{
+    // Elválasztók
+    "Elálasztó 1": {
+        "prefix": "!elvalaszto-1",
+        "body": [
+            "<!-- Elválasztó -->",
+            "<section class=\"szekcio\">",
+            "   <div class=\"hatter-szurke belso-kitoltes-20px\"></div>",
+            "</section>",
+        ],
+        "description": "Elválasztó 1"
+    },
+}
