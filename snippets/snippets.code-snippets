@@ -1,6 +1,43 @@
 {
+    // Üres sablon
+    "Üres sablon": {
+        "prefix": "!ures-sablon",
+        "body": [
+            "<!DOCTYPE html>",
+            "<html>",
+            "   <head>",
+            "   <!-- OLDAL NEVE -->",
+            "        <title>Oldalad neve</title>",
+            "    ",
+            "        <!-- METÁK -->",
+            "        <meta charset=\"UTF-8\">",
+            "        <meta name=\"description\" content=\"Webkészítés Magyarul\">",
+            "        <meta name=\"keywords\" content=\"HunCoder, Sablon\">",
+            "        <meta name=\"author\" content=\"HunCoder Team\">",
+            "        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+            "        ",
+            "        <!-- STÍLUS FÁJL -->",
+            "        <link rel=\"stylesheet\" type=\"text/css\" href=\"css/huncoder-styles-1-0.css\">",
+            "        ",
+            "        <!-- SCRIPT -->",
+            "        <script src=\"js/huncoder-scripts-1-0.js\"></script>",
+            "        ",
+            "        <!-- FONT AWESOME / IKONOK -->",
+            "        <script src=\"https: //kit.fontawesome.com/086e7cefb3.js\" crossorigin=\"anonymous\"></script>",
+            "        ",
+            "        <!-- FRISSITŐ -->",
+            "        <!-- <meta http-equiv=\"refresh\" content=\"2\"> -->",
+            "        ",
+            "    </head>",
+            "    <body>",
+            "    ",
+            "    </body>",
+            "</html>",
+        ],
+        "description": "Üres sablon"
+    },
     // Elválasztók
-    "Elálasztó 1": {
+    "Elválasztó 1": {
         "prefix": "!elvalaszto-1",
         "body": [
             "<!-- Elválasztó -->",

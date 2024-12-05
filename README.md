@@ -8,7 +8,8 @@ Egy felkiáltójel beírásával a Visual Studio Code ki fogja listázni az öss
 
 ## Sablonok listája
 
-**!elvalaszto-1** - Elválasztó 1.  
+**!elvalaszto-1** - Elválasztó 1  
+**!ures-sablon** - Üres sablon  
 
 ## Példa
 
@@ -55,9 +56,9 @@ Minden behívható sablon reszponzív.
 
 ## Új verzió
 
-### 0.0.2
+### 0.0.3
 
-Readme
+Üres sablon
 
 ## HTML kitöltő
 
